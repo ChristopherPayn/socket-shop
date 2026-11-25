@@ -1,0 +1,6 @@
+{
+  "accounts": [
+    { "id": "1", "accountNumber": "1234-5678", "accountHolder": "Mart", "balance": 100 },
+    { "id": "2", "accountNumber": "9876-5432", "accountHolder": "Fronje", "balance": 100 }
+  ]
+}
