@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "id": "1", "code": "1234-5678", "name": "Soap", "price": 10 },
+    { "id": "2", "code": "9876-5432", "name": "Lotion", "price": 20 }
+  ]
+}
